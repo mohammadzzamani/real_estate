@@ -1,0 +1,13 @@
+# Distribution / packaging
+.Python
+env/
+downloads/
+
+# Installer logs
+pip-log.txt
+
+
+# virtualenv
+.venv
+venv/
+ENV/
